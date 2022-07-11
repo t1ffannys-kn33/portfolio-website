@@ -3,5 +3,6 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   margin-top: 60px;
+  --primary-color: #77fc03;
 }
 
